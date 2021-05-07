@@ -9,7 +9,7 @@
     "bootstrap": "^4.4.1",
     "handlebars": "^4.0.5",
     "jquery": "^3.4.1",
-    "underscore": "^1.7.0"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {},
   "scripts": {
